@@ -8,4 +8,6 @@ int main(void)
     printf("I am a simple ");
     printf("computer.\n");
     printf("My favoiurite number is %d because it is the first.\n", num);
+
+    return 0;
 }
